@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap");
+
+.App {
+  font-family: "Rubik Bubbles", cursive;
+  text-align: center;
+  font-size: x-large;
+}
+.inputEmo {
+  padding: 1rem 0.3rem;
+  width: 50%;
+}
